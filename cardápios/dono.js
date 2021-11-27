@@ -41,7 +41,7 @@ const menudono = (prefix) => {
 ┊✾⋟  ${prefix}transmitir -all / -pvs / -gps
 ┊✾⋟  ${prefix}transmitir2 (marcar)
 ┊ 
-╰┈┈❲ ${NomeDoBot} ❳┈┈╯`
+╰┈┈❲ ${Goku🌹} ❳┈┈╯`
 
 }
 exports.menudono = menudono
